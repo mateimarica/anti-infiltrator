@@ -30,13 +30,11 @@ void loop() {
 	long duration = pulseIn(ECHO_PIN, HIGH);
 
 	//The distance travelled in the given duration in centimeters.
-	float centimeters = microsecondsToCentimeters(duration);
+	int centimeters = microsecondsToCentimeters(duration);
 	
-	Serial.print("Object is at a distance of ");
-	Serial.print(centimeters);
-	Serial.println(" centimeters.");
+	Serial.println(centimeters);
 
-	delay(500);
+	delay(25);
 }
 
 // Converts the distance travelled in the given duration of microseconds to cm.
