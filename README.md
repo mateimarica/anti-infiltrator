@@ -2,12 +2,11 @@ Do you have an issue with people not knocking? Do you get nervous during incogni
 
 This program will return you to your desktop when a distance sensor is triggered. This way, to a third party, it would appear that you were just passionately inspecting your wallpaper.
 
-<br><br>
+<br>
 
 # Using the program
-<i>This program has two parts: the code running on an Arduino and the code running on your PC.</i>
+<i>This program has two parts: the code running on the Arduino and the code running on your PC.</i>
 
-<br>
 
 ### <b>Arduino</b>
 
@@ -15,11 +14,10 @@ This program will return you to your desktop when a distance sensor is triggered
 
 * Using the [Arduino IDE](https://www.arduino.cc/en/software) or the [PlatformIO IDE](https://platformio.org/platformio-ide) VSCode extension, open the `/src/distanceReporter.cpp` file and upload it to the board.  Position the board by your door.
 
-![Contraption anatomy](https://i.imgur.com/5ivvzck.jpg)
+![Contraption anatomy](https://raw.githubusercontent.com/mateimarica/public/master/anti-infiltrator/anti_infiltrator_1.png)
 
-![](https://i.imgur.com/6XzxTCu.jpg)
+![](https://raw.githubusercontent.com/mateimarica/public/master/anti-infiltrator/anti_infiltrator_2.png)
 
-<br>
 
 ### <b>Python</b>
 
