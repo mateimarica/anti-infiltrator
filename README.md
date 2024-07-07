@@ -1,4 +1,4 @@
-Do you have an issue with people not knocking? Do you get nervous during incognito sessions?
+Are you worried about your boss catching you watching YouTube during work hours? Here's a setup for you!
 
 This program will return you to your desktop when a distance sensor is triggered. This way, to a third party, it would appear that you were just passionately inspecting your wallpaper.
 
